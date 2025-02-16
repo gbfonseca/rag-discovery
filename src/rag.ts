@@ -28,7 +28,12 @@ export const vectorSaveAndSearch = async (
   });
   const vectorStore = await MemoryVectorStore.fromDocuments(splits, embeddings);
 
-  const searches = await vectorStore.similaritySearch(question);
+  const similarityNumber = 50;
+
+  const searches = await vectorStore.similaritySearch(
+    question,
+    similarityNumber
+  );
   return searches;
 };
 
