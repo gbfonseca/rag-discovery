@@ -24,7 +24,7 @@ export const vectorSaveAndSearch = async (
 ) => {
   const embeddings = new OllamaEmbeddings({
     baseUrl: "http://localhost:11434", // Default value
-    model: "deepseek-r1:1.5b",
+    model: "llama3.2",
   });
   const vectorStore = await MemoryVectorStore.fromDocuments(splits, embeddings);
 
@@ -42,8 +42,8 @@ export const generatePrompt = async (
   });
 
   const prompt = PromptTemplate.fromTemplate(`
+Result H is of win of HomeTeam, A is Win of a AwayTeam, D is a Draw
 Answer the question based only on the following context:
-
 {context}
 
 ---
@@ -61,7 +61,7 @@ Answer the question based on the above context: {question}
 export const generateOutput = async (prompt: string) => {
   const ollamaLlm = new ChatOllama({
     baseUrl: "http://localhost:11434", // Default value
-    model: "deepseek-r1:1.5b", // Default value
+    model: "llama3.2", // Default value
   });
 
   const response = await ollamaLlm.invoke(prompt);

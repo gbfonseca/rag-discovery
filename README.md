@@ -24,7 +24,7 @@ curl --request POST \
   --header 'Content-Type: application/json' \
   --header 'User-Agent: insomnia/10.3.0' \
   --data '{
-	"question": "How many goals does Man United have as HomeTeam 2 or more?"
+	"question": "How many goals does Man United have as HomeTeam 1 or more?"
 }'
 ```
 
