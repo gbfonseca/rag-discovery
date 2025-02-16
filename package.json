@@ -1,0 +1,26 @@
+{
+  "name": "rag-discovery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsx watch src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.4",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@langchain/community": "^0.3.30",
+    "@langchain/ollama": "^0.2.0",
+    "d3-dsv": "^2.0.0",
+    "express": "^4.21.2",
+    "langchain": "^0.3.15"
+  }
+}

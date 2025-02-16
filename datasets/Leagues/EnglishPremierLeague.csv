@@ -1,0 +1,200 @@
+League,Date,HomeTeam,AwayTeam,HomeGoals,AwayGoals,Result
+English Premier League,16/08/08,Arsenal,West Brom,1.0,0.0,H
+English Premier League,16/08/08,Bolton,Stoke,3.0,1.0,H
+English Premier League,16/08/08,Everton,Blackburn,2.0,3.0,A
+English Premier League,16/08/08,Hull,Fulham,2.0,1.0,H
+English Premier League,16/08/08,Middlesbrough,Tottenham,2.0,1.0,H
+English Premier League,16/08/08,Sunderland,Liverpool,0.0,1.0,A
+English Premier League,16/08/08,West Ham,Wigan,2.0,1.0,H
+English Premier League,17/08/08,Aston Villa,Man City,4.0,2.0,H
+English Premier League,17/08/08,Chelsea,Portsmouth,4.0,0.0,H
+English Premier League,17/08/08,Man United,Newcastle,1.0,1.0,D
+English Premier League,23/08/08,Blackburn,Hull,1.0,1.0,D
+English Premier League,23/08/08,Fulham,Arsenal,1.0,0.0,H
+English Premier League,23/08/08,Liverpool,Middlesbrough,2.0,1.0,H
+English Premier League,23/08/08,Newcastle,Bolton,1.0,0.0,H
+English Premier League,23/08/08,Stoke,Aston Villa,3.0,2.0,H
+English Premier League,23/08/08,Tottenham,Sunderland,1.0,2.0,A
+English Premier League,23/08/08,West Brom,Everton,1.0,2.0,A
+English Premier League,24/08/08,Man City,West Ham,3.0,0.0,H
+English Premier League,24/08/08,Wigan,Chelsea,0.0,1.0,A
+English Premier League,25/08/08,Portsmouth,Man United,0.0,1.0,A
+English Premier League,30/08/08,Arsenal,Newcastle,3.0,0.0,H
+English Premier League,30/08/08,Bolton,West Brom,0.0,0.0,D
+English Premier League,30/08/08,Everton,Portsmouth,0.0,3.0,A
+English Premier League,30/08/08,Hull,Wigan,0.0,5.0,A
+English Premier League,30/08/08,Middlesbrough,Stoke,2.0,1.0,H
+English Premier League,30/08/08,West Ham,Blackburn,4.0,1.0,H
+English Premier League,31/08/08,Aston Villa,Liverpool,0.0,0.0,D
+English Premier League,31/08/08,Chelsea,Tottenham,1.0,1.0,D
+English Premier League,31/08/08,Sunderland,Man City,0.0,3.0,A
+English Premier League,13/09/08,Blackburn,Arsenal,0.0,4.0,A
+English Premier League,13/09/08,Fulham,Bolton,2.0,1.0,H
+English Premier League,13/09/08,Liverpool,Man United,2.0,1.0,H
+English Premier League,13/09/08,Man City,Chelsea,1.0,3.0,A
+English Premier League,13/09/08,Newcastle,Hull,1.0,2.0,A
+English Premier League,13/09/08,Portsmouth,Middlesbrough,2.0,1.0,H
+English Premier League,13/09/08,West Brom,West Ham,3.0,2.0,H
+English Premier League,13/09/08,Wigan,Sunderland,1.0,1.0,D
+English Premier League,14/09/08,Stoke,Everton,2.0,3.0,A
+English Premier League,15/09/08,Tottenham,Aston Villa,1.0,2.0,A
+English Premier League,20/09/08,Blackburn,Fulham,1.0,0.0,H
+English Premier League,20/09/08,Bolton,Arsenal,1.0,3.0,A
+English Premier League,20/09/08,Liverpool,Stoke,0.0,0.0,D
+English Premier League,20/09/08,Sunderland,Middlesbrough,2.0,0.0,H
+English Premier League,20/09/08,West Ham,Newcastle,3.0,1.0,H
+English Premier League,21/09/08,Chelsea,Man United,1.0,1.0,D
+English Premier League,21/09/08,Hull,Everton,2.0,2.0,D
+English Premier League,21/09/08,Man City,Portsmouth,6.0,0.0,H
+English Premier League,21/09/08,Tottenham,Wigan,0.0,0.0,D
+English Premier League,21/09/08,West Brom,Aston Villa,1.0,2.0,A
+English Premier League,27/09/08,Arsenal,Hull,1.0,2.0,A
+English Premier League,27/09/08,Aston Villa,Sunderland,2.0,1.0,H
+English Premier League,27/09/08,Everton,Liverpool,0.0,2.0,A
+English Premier League,27/09/08,Fulham,West Ham,1.0,2.0,A
+English Premier League,27/09/08,Man United,Bolton,2.0,0.0,H
+English Premier League,27/09/08,Middlesbrough,West Brom,0.0,1.0,A
+English Premier League,27/09/08,Newcastle,Blackburn,1.0,2.0,A
+English Premier League,27/09/08,Stoke,Chelsea,0.0,2.0,A
+English Premier League,28/09/08,Portsmouth,Tottenham,2.0,0.0,H
+English Premier League,28/09/08,Wigan,Man City,2.0,1.0,H
+English Premier League,04/10/08,Blackburn,Man United,0.0,2.0,A
+English Premier League,04/10/08,Sunderland,Arsenal,1.0,1.0,D
+English Premier League,04/10/08,West Brom,Fulham,1.0,0.0,H
+English Premier League,04/10/08,Wigan,Middlesbrough,0.0,1.0,A
+English Premier League,05/10/08,Chelsea,Aston Villa,2.0,0.0,H
+English Premier League,05/10/08,Everton,Newcastle,2.0,2.0,D
+English Premier League,05/10/08,Man City,Liverpool,2.0,3.0,A
+English Premier League,05/10/08,Portsmouth,Stoke,2.0,1.0,H
+English Premier League,05/10/08,Tottenham,Hull,0.0,1.0,A
+English Premier League,05/10/08,West Ham,Bolton,1.0,3.0,A
+English Premier League,18/10/08,Arsenal,Everton,3.0,1.0,H
+English Premier League,18/10/08,Aston Villa,Portsmouth,0.0,0.0,D
+English Premier League,18/10/08,Bolton,Blackburn,0.0,0.0,D
+English Premier League,18/10/08,Fulham,Sunderland,0.0,0.0,D
+English Premier League,18/10/08,Liverpool,Wigan,3.0,2.0,H
+English Premier League,18/10/08,Man United,West Brom,4.0,0.0,H
+English Premier League,18/10/08,Middlesbrough,Chelsea,0.0,5.0,A
+English Premier League,19/10/08,Hull,West Ham,1.0,0.0,H
+English Premier League,19/10/08,Stoke,Tottenham,2.0,1.0,H
+English Premier League,20/10/08,Newcastle,Man City,2.0,2.0,D
+English Premier League,25/10/08,Blackburn,Middlesbrough,1.0,1.0,D
+English Premier League,25/10/08,Everton,Man United,1.0,1.0,D
+English Premier League,25/10/08,Sunderland,Newcastle,2.0,1.0,H
+English Premier League,25/10/08,West Brom,Hull,0.0,3.0,A
+English Premier League,26/10/08,Chelsea,Liverpool,0.0,1.0,A
+English Premier League,26/10/08,Man City,Stoke,3.0,0.0,H
+English Premier League,26/10/08,Portsmouth,Fulham,1.0,1.0,D
+English Premier League,26/10/08,Tottenham,Bolton,2.0,0.0,H
+English Premier League,26/10/08,West Ham,Arsenal,0.0,2.0,A
+English Premier League,26/10/08,Wigan,Aston Villa,0.0,4.0,A
+English Premier League,28/10/08,Newcastle,West Brom,2.0,1.0,H
+English Premier League,29/10/08,Arsenal,Tottenham,4.0,4.0,D
+English Premier League,29/10/08,Aston Villa,Blackburn,3.0,2.0,H
+English Premier League,29/10/08,Bolton,Everton,0.0,1.0,A
+English Premier League,29/10/08,Fulham,Wigan,2.0,0.0,H
+English Premier League,29/10/08,Hull,Chelsea,0.0,3.0,A
+English Premier League,29/10/08,Liverpool,Portsmouth,1.0,0.0,H
+English Premier League,29/10/08,Man United,West Ham,2.0,0.0,H
+English Premier League,29/10/08,Middlesbrough,Man City,2.0,0.0,H
+English Premier League,29/10/08,Stoke,Sunderland,1.0,0.0,H
+English Premier League,01/11/08,Chelsea,Sunderland,5.0,0.0,H
+English Premier League,01/11/08,Everton,Fulham,1.0,0.0,H
+English Premier League,01/11/08,Man United,Hull,4.0,3.0,H
+English Premier League,01/11/08,Middlesbrough,West Ham,1.0,1.0,D
+English Premier League,01/11/08,Portsmouth,Wigan,1.0,2.0,A
+English Premier League,01/11/08,Stoke,Arsenal,2.0,1.0,H
+English Premier League,01/11/08,Tottenham,Liverpool,2.0,1.0,H
+English Premier League,01/11/08,West Brom,Blackburn,2.0,2.0,D
+English Premier League,02/11/08,Bolton,Man City,2.0,0.0,H
+English Premier League,03/11/08,Newcastle,Aston Villa,2.0,0.0,H
+English Premier League,08/11/08,Arsenal,Man United,2.0,1.0,H
+English Premier League,08/11/08,Hull,Bolton,0.0,1.0,A
+English Premier League,08/11/08,Liverpool,West Brom,3.0,0.0,H
+English Premier League,08/11/08,Sunderland,Portsmouth,1.0,2.0,A
+English Premier League,08/11/08,West Ham,Everton,1.0,3.0,A
+English Premier League,08/11/08,Wigan,Stoke,0.0,0.0,D
+English Premier League,09/11/08,Aston Villa,Middlesbrough,1.0,2.0,A
+English Premier League,09/11/08,Blackburn,Chelsea,0.0,2.0,A
+English Premier League,09/11/08,Fulham,Newcastle,2.0,1.0,H
+English Premier League,09/11/08,Man City,Tottenham,1.0,2.0,A
+English Premier League,15/11/08,Arsenal,Aston Villa,0.0,2.0,A
+English Premier League,15/11/08,Blackburn,Sunderland,1.0,2.0,A
+English Premier League,15/11/08,Bolton,Liverpool,0.0,2.0,A
+English Premier League,15/11/08,Fulham,Tottenham,2.0,1.0,H
+English Premier League,15/11/08,Man United,Stoke,5.0,0.0,H
+English Premier League,15/11/08,Newcastle,Wigan,2.0,2.0,D
+English Premier League,15/11/08,West Brom,Chelsea,0.0,3.0,A
+English Premier League,15/11/08,West Ham,Portsmouth,0.0,0.0,D
+English Premier League,16/11/08,Everton,Middlesbrough,1.0,1.0,D
+English Premier League,16/11/08,Hull,Man City,2.0,2.0,D
+English Premier League,22/11/08,Aston Villa,Man United,0.0,0.0,D
+English Premier League,22/11/08,Chelsea,Newcastle,0.0,0.0,D
+English Premier League,22/11/08,Liverpool,Fulham,0.0,0.0,D
+English Premier League,22/11/08,Man City,Arsenal,3.0,0.0,H
+English Premier League,22/11/08,Middlesbrough,Bolton,1.0,3.0,A
+English Premier League,22/11/08,Portsmouth,Hull,2.0,2.0,D
+English Premier League,22/11/08,Stoke,West Brom,1.0,0.0,H
+English Premier League,23/11/08,Sunderland,West Ham,0.0,1.0,A
+English Premier League,23/11/08,Tottenham,Blackburn,1.0,0.0,H
+English Premier League,24/11/08,Wigan,Everton,1.0,0.0,H
+English Premier League,29/11/08,Aston Villa,Fulham,0.0,0.0,D
+English Premier League,29/11/08,Middlesbrough,Newcastle,0.0,0.0,D
+English Premier League,29/11/08,Stoke,Hull,1.0,1.0,D
+English Premier League,29/11/08,Sunderland,Bolton,1.0,4.0,A
+English Premier League,29/11/08,Wigan,West Brom,2.0,1.0,H
+English Premier League,30/11/08,Chelsea,Arsenal,1.0,2.0,A
+English Premier League,30/11/08,Man City,Man United,0.0,1.0,A
+English Premier League,30/11/08,Portsmouth,Blackburn,3.0,2.0,H
+English Premier League,30/11/08,Tottenham,Everton,0.0,1.0,A
+English Premier League,01/12/08,Liverpool,West Ham,0.0,0.0,D
+English Premier League,06/12/08,Arsenal,Wigan,1.0,0.0,H
+English Premier League,06/12/08,Blackburn,Liverpool,1.0,3.0,A
+English Premier League,06/12/08,Bolton,Chelsea,0.0,2.0,A
+English Premier League,06/12/08,Fulham,Man City,1.0,1.0,D
+English Premier League,06/12/08,Hull,Middlesbrough,2.0,1.0,H
+English Premier League,06/12/08,Man United,Sunderland,1.0,0.0,H
+English Premier League,06/12/08,Newcastle,Stoke,2.0,2.0,D
+English Premier League,07/12/08,Everton,Aston Villa,2.0,3.0,A
+English Premier League,07/12/08,West Brom,Portsmouth,1.0,1.0,D
+English Premier League,08/12/08,West Ham,Tottenham,0.0,2.0,A
+English Premier League,13/12/08,Aston Villa,Bolton,4.0,2.0,H
+English Premier League,13/12/08,Liverpool,Hull,2.0,2.0,D
+English Premier League,13/12/08,Man City,Everton,0.0,1.0,A
+English Premier League,13/12/08,Middlesbrough,Arsenal,1.0,1.0,D
+English Premier League,13/12/08,Stoke,Fulham,0.0,0.0,D
+English Premier League,13/12/08,Sunderland,West Brom,4.0,0.0,H
+English Premier League,13/12/08,Tottenham,Man United,0.0,0.0,D
+English Premier League,13/12/08,Wigan,Blackburn,3.0,0.0,H
+English Premier League,14/12/08,Chelsea,West Ham,1.0,1.0,D
+English Premier League,14/12/08,Portsmouth,Newcastle,0.0,3.0,A
+English Premier League,20/12/08,Blackburn,Stoke,3.0,0.0,H
+English Premier League,20/12/08,Bolton,Portsmouth,2.0,1.0,H
+English Premier League,20/12/08,Fulham,Middlesbrough,3.0,0.0,H
+English Premier League,20/12/08,Hull,Sunderland,1.0,4.0,A
+English Premier League,20/12/08,West Ham,Aston Villa,0.0,1.0,A
+English Premier League,21/12/08,Arsenal,Liverpool,1.0,1.0,D
+English Premier League,21/12/08,Newcastle,Tottenham,2.0,1.0,H
+English Premier League,21/12/08,West Brom,Man City,2.0,1.0,H
+English Premier League,22/12/08,Everton,Chelsea,0.0,0.0,D
+English Premier League,26/12/08,Aston Villa,Arsenal,2.0,2.0,D
+English Premier League,26/12/08,Chelsea,West Brom,2.0,0.0,H
+English Premier League,26/12/08,Liverpool,Bolton,3.0,0.0,H
+English Premier League,26/12/08,Man City,Hull,5.0,1.0,H
+English Premier League,26/12/08,Middlesbrough,Everton,0.0,1.0,A
+English Premier League,26/12/08,Portsmouth,West Ham,1.0,4.0,A
+English Premier League,26/12/08,Stoke,Man United,0.0,1.0,A
+English Premier League,26/12/08,Sunderland,Blackburn,0.0,0.0,D
+English Premier League,26/12/08,Tottenham,Fulham,0.0,0.0,D
+English Premier League,26/12/08,Wigan,Newcastle,2.0,1.0,H
+English Premier League,28/12/08,Arsenal,Portsmouth,1.0,0.0,H
+English Premier League,28/12/08,Blackburn,Man City,2.0,2.0,D
+English Premier League,28/12/08,Bolton,Wigan,0.0,1.0,A
+English Premier League,28/12/08,Everton,Sunderland,3.0,0.0,H
+English Premier League,28/12/08,Fulham,Chelsea,2.0,2.0,D
+English Premier League,28/12/08,Newcastle,Liverpool,1.0,5.0,A
+English Premier League,28/12/08,West Brom,Tottenham,2.0,0.0,H
+English Premier League,28/12/08,West Ham,Stoke,2.0,1.0,H
+English Premier League,29/12/08,Man United,Middlesbrough,1.0,0.0,H
+English Premier League,30/12/08,Hull,Aston Villa,0.0,1.0,A
+English Premier League,10/01/09,Arsenal,Bolton,1.0,0.0,H
