@@ -6,8 +6,6 @@ import {
   vectorSaveAndSearch,
 } from "./rag";
 import path from "path";
-import { OllamaEmbeddings } from "@langchain/ollama";
-import { MemoryVectorStore } from "langchain/vectorstores/memory";
 
 const run = async () => {
   const app = Express();
@@ -16,11 +14,6 @@ const run = async () => {
   const splits = await loadAndSplitTheDocs(
     path.join(__dirname, "../datasets/Leagues/EnglishPremierLeague.csv")
   );
-
-  const embeddings = new OllamaEmbeddings({
-    baseUrl: "http://localhost:11434", // Default value
-    model: "llama3.2",
-  });
 
   app.use(Express.json());
 
